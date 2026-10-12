@@ -6,7 +6,7 @@ nav_order: 2
 
 # 1. Setup
 
-This repository can be run in **two ways**: with **Ansible directly**, or with the **execution scripts** provided under [`scripts`](https://github.com/Vera0011/easysec/tree/v1.1.0/scripts).
+This repository can be run in **two ways**: with **Ansible directly**, or with the **execution scripts** provided under [`scripts`](https://github.com/EasySec-SMEs/core/tree/v1.1.0/scripts).
 
 Both methods share the same Python environment setup, but differ in how you trigger the automation:
 
@@ -48,7 +48,7 @@ Replace `inventory/staging` with the path to your inventory file (e.g. `inventor
 
 ## 1.2 Execution scripts
 
-Two helper scripts live under [`scripts`](https://github.com/Vera0011/easysec/tree/v1.1.0/scripts):
+Two helper scripts live under [`scripts`](https://github.com/EasySec-SMEs/core/tree/v1.1.0/scripts):
 
 - **`execute.sh`** — An interactive CLI that lets you pick which module or workflow to run, without needing to know the underlying Ansible commands.
 - **`populate.sh`** — Populates the `hosts` section of your inventory (for either `production` or `staging`). It can do this automatically (e.g. by discovering hosts) or let you enter them manually, depending on the option you choose when running it.

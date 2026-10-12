@@ -10,7 +10,7 @@ Access the documentation [here](https://docs.easysec.es/)
 
 ## Disclaimer and contributions
 
-This project is completely open source, created by Vera and licensed under the [MIT License](https://github.com/Vera0011/easysec/tree/master/LICENSE.md). Any contributions, suggestions or implementations are welcome.
+This project is completely open source, created by Vera and licensed under the [MIT License](https://github.com/EasySec-SMEs/docs/tree/master/LICENSE.md). Any contributions, suggestions or implementations are welcome.
 
 ## Contact
 
