@@ -24,7 +24,7 @@ The list below tracks tools and environments planned for the project. Checked it
 
 - [x] [Proxychains + Tor](/en/v1.1.0/proxychains)
 - [x] [Keycloak](/en/v1.1.0/keycloak)
-- [ ] Netmaker
+- [x] [Netmaker](/en/v1.2.0/netmaker)
 - [ ] Pomerium
 - [ ] Netbird
 - [ ] Teleport

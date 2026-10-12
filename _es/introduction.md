@@ -24,7 +24,7 @@ La siguiente lista recoge las herramientas y entornos previstos para el proyecto
 
 - [x] [Proxychains + Tor](/es/v1.1.0/proxychains)
 - [x] [Keycloak](/es/v1.1.0/keycloak)
-- [ ] Netmaker
+- [x] [Netmaker](/es/v1.2.0/netmaker)
 - [ ] Pomerium
 - [ ] Netbird
 - [ ] Teleport
