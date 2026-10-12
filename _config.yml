@@ -6,6 +6,8 @@ plugins:
 title: EasySec
 description: EasySec documentation
 url: "https://docs.easysec.es"
+favicon_ico: "/assets/favicon.ico"
+logo: "/assets/banner.svg"
 
 include:
   - ../LICENSE.md
